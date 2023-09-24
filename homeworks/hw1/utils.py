@@ -58,7 +58,7 @@ def plot_embeddings(reduced_matrix, token=None, radius=10, alpha=0.25, show=True
 
     if isinstance(color, str):
         color = [color] * len(reduced_matrix)
-    data_source = bm.ColumnDataSource({'x': reduced_matrix[:, 0], 'y': reduced_matrix[:, 1], 'color': color, token: token})
+    data_source = bm.ColumnDataSource({'x': reduced_matrix[:, 0], 'y': reduced_matrix[:, 1], 'color': color, 'token': token})
 
     fig = pl.figure(active_scroll='wheel_zoom', width=600, height=400)
     fig.scatter('x', 'y', size=radius, color='color', alpha=alpha, source=data_source)
