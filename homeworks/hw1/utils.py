@@ -49,7 +49,7 @@ def get_distinct_words(corpus, min_count=10):
     return words, word_counter
 
 
-def plot_embeddings(reduced_matrix, token=None, radius=10, alpha=0.25, show=True, color='blue', **kwargs):
+def plot_embeddings(reduced_matrix, token=None, radius=10, alpha=0.25, show=True, color='blue'):
     """ 
     :args:
         reduced_matrix (np.ndarray [n_words, 2]): matrix of 2-dimensioal word embeddings
@@ -63,7 +63,7 @@ def plot_embeddings(reduced_matrix, token=None, radius=10, alpha=0.25, show=True
     fig = pl.figure(active_scroll='wheel_zoom', width=600, height=400)
     fig.scatter('x', 'y', size=radius, color='color', alpha=alpha, source=data_source)
 
-    fig.add_tools(bm.HoverTool(tooltips=[(key, "@" + key) for key in kwargs.keys()]))
+    fig.add_tools(bm.HoverTool(tooltips=[('token', "@token")]))
     if show:
         pl.show(fig)
     return fig
