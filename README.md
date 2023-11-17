@@ -21,7 +21,7 @@
 
 1. Трансформерные модели: GPT, BERT. Записи: [лекция](https://www.youtube.com/watch?v=rZFu1UoOejo&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=11), [семинар](https://www.youtube.com/watch?v=iMuqGlDyxLQ&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=12)
 
-1. Как дообучать предобученные модели? Почему дообучение модели целиком не всегда хорошо? Parameter-Efficient Fine-Tunning (PEFT). Записи: [лекция](https://www.youtube.com/watch?v=Ylj9M_Ufy64&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=14), [семинар](https://www.youtube.com/watch?v=qlyTrdLMrKs&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=15)
+1. Как дообучать предобученные модели? Почему дообучать модель целиком не всегда хорошо? Parameter-Efficient Fine-Tunning (PEFT). Записи: [лекция](https://www.youtube.com/watch?v=Ylj9M_Ufy64&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=14), [семинар](https://www.youtube.com/watch?v=qlyTrdLMrKs&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=15)
 
 1. Ускорение и сжатие модели. Дистилляция знаний, Квантизация. Записи: [лекция](https://www.youtube.com/watch?v=dUMZvLLtKPI&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=17)
    
