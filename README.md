@@ -23,7 +23,7 @@
 
 1. Как дообучать предобученные модели? Почему дообучать модель целиком не всегда хорошо? Parameter-Efficient Fine-Tunning (PEFT). Записи: [лекция](https://www.youtube.com/watch?v=Ylj9M_Ufy64&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=14), [семинар](https://www.youtube.com/watch?v=qlyTrdLMrKs&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=15)
 
-1. Ускорение и сжатие модели. Дистилляция знаний, Квантизация. Записи: [лекция](https://www.youtube.com/watch?v=dUMZvLLtKPI&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=17)
+1. Ускорение и сжатие модели. Дистилляция знаний, Квантизация. Записи: [лекция](https://www.youtube.com/watch?v=dUMZvLLtKPI&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=17), [семинар](https://www.youtube.com/watch?v=32IrfjUlp3U&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=17)
    
 # Преподаватели
 
