@@ -6,6 +6,7 @@
 
 * Страница курса на wiki: [ссылка](http://wiki.cs.hse.ru/Глубинное_обучение_для_текстовых_данных_23/24)
 * Записи лекций и семинаров: [ссылка](https://www.youtube.com/playlist?list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB)
+* Табличка с оценками: [ссылка](https://docs.google.com/spreadsheets/d/1J7zVSrdglNnnVgoTmrgC1YlPBlY1M8LViqjRlLdC0MY/edit?usp=sharing)
 
 # Темы курса
 
