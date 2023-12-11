@@ -25,7 +25,13 @@
 1. Как дообучать предобученные модели? Почему дообучать модель целиком не всегда хорошо? Parameter-Efficient Fine-Tunning (PEFT). Записи: [лекция](https://www.youtube.com/watch?v=Ylj9M_Ufy64&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=14), [семинар](https://www.youtube.com/watch?v=qlyTrdLMrKs&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=15)
 
 1. Ускорение и сжатие модели. Дистилляция знаний, Квантизация. Записи: [лекция](https://www.youtube.com/watch?v=dUMZvLLtKPI&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=17), [семинар](https://www.youtube.com/watch?v=32IrfjUlp3U&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=17)
-   
+
+1. Трюки для обучения трансформеров, работа с длинным контекстом. Записи: [лекция](https://www.youtube.com/watch?v=gIya8SHsX2s&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=18), [семинар](https://www.youtube.com/watch?v=C8Rw99tdqqc&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=19)
+
+1. Text style transfer. Записи: [лекция](https://www.youtube.com/watch?v=w7xQR77xC8I&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=20), семинар не проводился.
+
+1. Диалоговые системы. Работа с моделями в huggingface. Записи: [лекция](https://www.youtube.com/watch?v=1qCV6ltztcY&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=21), [семинар](https://www.youtube.com/watch?v=W2yxYYRf_ss&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=22)
+
 # Преподаватели
 
 * [Александр Шабалин](https://t.me/amshabalin)
