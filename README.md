@@ -32,6 +32,8 @@
 
 1. Диалоговые системы. Работа с моделями в huggingface. Записи: [лекция](https://www.youtube.com/watch?v=1qCV6ltztcY&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=21), [семинар](https://www.youtube.com/watch?v=W2yxYYRf_ss&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=22)
 
+1. Диффузионные модели для текстовых данных. Записи: [лекция](https://www.youtube.com/watch?v=ymTLnikGedA&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=23), [семинар](https://www.youtube.com/watch?v=JTPFzFNWSWU&list=PLEwK9wdS5g0pc4NeOQqGLPcxmBHGUjnWB&index=24)
+2. 
 # Преподаватели
 
 * [Александр Шабалин](https://t.me/amshabalin)
