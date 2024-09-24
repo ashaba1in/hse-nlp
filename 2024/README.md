@@ -9,7 +9,7 @@
 # Темы курса
 
 1. Классификация текста. Записи: [лекция](https://disk.yandex.ru/i/VZBjWbskRzyDWg), [семинар](https://disk.yandex.ru/i/NeZPJoCaLyfXTQ)
-2. Генерация текста. Записи: [лекция](https://disk.yandex.ru/i/QFKbGoLQaPgdQQ), [семинар](https://disk.yandex.ru/i/FFTIFnsKRk9mnw)
+2. Генерация текста. Методы токенизации. Записи: [лекция](https://disk.yandex.ru/i/QFKbGoLQaPgdQQ), [семинар](https://disk.yandex.ru/i/FFTIFnsKRk9mnw)
 
 # Преподаватели
 
