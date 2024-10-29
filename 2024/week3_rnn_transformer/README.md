@@ -7,7 +7,7 @@
 
 1. LSTM: [оригинальная статья](https://www.bioinf.jku.at/publications/older/2604.pdf), [блог пост](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 1. Механизм внимания: [первая статья](https://arxiv.org/abs/1409.0473), [улучшение той же идеи](https://arxiv.org/abs/1508.04025)
-1. Трансформер: [статья](https://arxiv.org/abs/1706.03762), [блогпост с подробными иллюстрациями](https://jalammar.github.io/illustrated-transformer/)
+1. Трансформер: [статья](https://arxiv.org/abs/1706.03762), [блогпост с подробными иллюстрациями](https://jalammar.github.io/illustrated-transformer/), [запись лекции от Андрея Карпатого](https://www.youtube.com/watch?v=XfpMkf4rD6E&ab_channel=StanfordOnline)
 1. Влияние методов декодирования текста на качество: [отличная статья](https://arxiv.org/abs/1904.09751)
 
 
