@@ -24,3 +24,4 @@
 #### Normalization
 1. Pre-normalization: [статья](https://arxiv.org/pdf/2002.04745)
 1. Root Mean Square (RMS) Norm: [статья](https://arxiv.org/abs/1910.07467)
+2. Почему Layer Normalization приводит к росту градиентов: [статья 1](https://arxiv.org/pdf/2002.04745), [статья 2](https://arxiv.org/pdf/2004.08249)
