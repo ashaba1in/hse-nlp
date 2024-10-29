@@ -18,7 +18,5 @@
 # Преподаватели
 
 * [Александр Шабалин](https://t.me/amshabalin)
-
 * [Алексей Биршерт](https://t.me/Birshert)
-
 * [Алексей Панков](https://t.me/leksious)
