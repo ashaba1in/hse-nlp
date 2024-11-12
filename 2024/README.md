@@ -14,6 +14,7 @@
 4. Декодирование текста. BERT. GPT. Записи: [лекция](https://disk.yandex.ru/d/UzOvSJo3wzwRfg), [семинар](https://disk.yandex.ru/i/ESJGALwhHmpeFw)
 5. Современные языковые модели. Записи: [лекция](https://disk.yandex.ru/d/XxifHojvPcc11Q), [семинар](https://disk.yandex.ru/i/uBlwwxeRLHm5pA)
 6. Transfer learning. Parameter-Efficient Fine-tuning. Записи: [лекция](https://disk.yandex.ru/i/Uu8kcbw-ylEX8Q)
+7. Уменьшение размеров LLM. Записи: [лекция](https://disk.yandex.ru/i/_JAcNx3GDxFJ-Q), [семинар](https://disk.yandex.ru/i/WvX6CeJV7NUp5g)
 
 # Преподаватели
 
