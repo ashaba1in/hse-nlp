@@ -14,7 +14,7 @@
 
 #### Positional encodings
 1. Relative Position Encodings: [статья](https://arxiv.org/abs/1803.02155), [блогпост](https://jaketae.github.io/study/relative-positional-encoding/).
-1. Rotary Position Embeddings (RoPE): [статья](https://arxiv.org/abs/2104.09864), [блогпост](https://afterhoursresearch.hashnode.dev/rope-rotary-positional-embedding), [реализация с комментариями](https://nn.labml.ai/transformers/rope/index.html).
+1. Rotary Position Embeddings (RoPE): [статья](https://arxiv.org/abs/2104.09864), [блогпост1](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding), [блогпост2](https://afterhoursresearch.hashnode.dev/rope-rotary-positional-embedding), [реализация с комментариями](https://nn.labml.ai/transformers/rope/index.html).
 1. Attention with Linear Biases (ALiBi): [статья](https://arxiv.org/abs/2108.12409).
 
 #### Feed Forward Network
