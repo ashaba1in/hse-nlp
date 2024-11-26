@@ -15,6 +15,8 @@
 5. Современные языковые модели. Записи: [лекция](https://disk.yandex.ru/d/XxifHojvPcc11Q), [семинар](https://disk.yandex.ru/i/uBlwwxeRLHm5pA)
 6. Transfer learning. Parameter-Efficient Fine-tuning. Записи: [лекция](https://disk.yandex.ru/i/Uu8kcbw-ylEX8Q)
 7. Уменьшение размеров LLM. Записи: [лекция](https://disk.yandex.ru/i/_JAcNx3GDxFJ-Q), [семинар](https://disk.yandex.ru/i/WvX6CeJV7NUp5g)
+8. Лекция от Тимофей Смирнова про Яндекс Нейро. Записи: [лекция](https://disk.yandex.ru/i/c8e73nUETfYhEg)
+9. Retrieval-augmented generation (RAG). Записи: [лекция](https://disk.yandex.ru/d/BQtK6z1vTYsD8w)
 
 # Преподаватели
 
