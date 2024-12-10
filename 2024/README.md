@@ -18,6 +18,7 @@
 8. Лекция от Тимофей Смирнова про Яндекс Нейро. Записи: [лекция](https://disk.yandex.ru/i/c8e73nUETfYhEg)
 9. Retrieval-augmented generation (RAG). Записи: [лекция](https://disk.yandex.ru/d/BQtK6z1vTYsD8w), [семинар](https://disk.yandex.ru/i/Ao67A-0R0UrEUQ)
 10. Текстовые диффузионные модели. Записи: [лекция](https://disk.yandex.ru/i/Twt3WSxRODrxaA)
+11. Active Learning. Записи: [лекция](https://disk.yandex.ru/i/2M9SvLhYNn86KA)
 
 # Преподаватели
 
