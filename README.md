@@ -4,7 +4,7 @@
 
 # Темы курса
 
-1. Классификация текста
+1. Классификация текста. Записи: [лекция](https://disk.yandex.ru/i/f4iwpQSXOGNXlA), [семинар](https://disk.yandex.ru/i/JRcJ3bIcsoJPYQ)
 
 # Преподаватели
 
