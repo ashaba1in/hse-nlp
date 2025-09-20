@@ -5,7 +5,8 @@
 # Темы курса
 
 1. Классификация текста. Записи: [лекция](https://disk.yandex.ru/i/f4iwpQSXOGNXlA), [семинар](https://disk.yandex.ru/i/JRcJ3bIcsoJPYQ)
-2. Генерация текста, RNN. Записи: [лекция](https://disk.yandex.ru/i/9q02Vbzy4GKw3w), [семинар](https://disk.yandex.ru/i/Gf2KyS3odxx_FQ) 
+2. Генерация текста, RNN. Записи: [лекция](https://disk.yandex.ru/i/9q02Vbzy4GKw3w), [семинар](https://disk.yandex.ru/i/Gf2KyS3odxx_FQ)
+3. Трансформер. Записи: [лекция](https://disk.yandex.ru/i/jNpFYKPMxFfjrg), [семинар](https://disk.yandex.ru/i/6DtHWdcH4KrvLQ)
 
 # Преподаватели
 
