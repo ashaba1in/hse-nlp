@@ -5,6 +5,7 @@ This repository contains lecture, seminar and homework materials.
 # Course topics
 
 1. Text classification
+2. Text generation
 
 # Instructors
 
