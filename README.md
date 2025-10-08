@@ -8,6 +8,7 @@ This repository contains lecture, seminar and homework materials.
 2. Text generation.
 3. Seq2seq, Transformer.
 4. BERT and GPT models.
+5. Knowledge Distilation and quantization
 
 # Instructors
 
