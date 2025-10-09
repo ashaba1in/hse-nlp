@@ -7,6 +7,9 @@
 1. Классификация текста. Записи: [лекция](https://disk.yandex.ru/i/f4iwpQSXOGNXlA), [семинар](https://disk.yandex.ru/i/JRcJ3bIcsoJPYQ)
 2. Генерация текста, RNN. Записи: [лекция](https://disk.yandex.ru/i/9q02Vbzy4GKw3w), [семинар](https://disk.yandex.ru/i/Gf2KyS3odxx_FQ)
 3. Трансформер. Записи: [лекция](https://disk.yandex.ru/i/jNpFYKPMxFfjrg), [семинар](https://disk.yandex.ru/i/6DtHWdcH4KrvLQ)
+4. BERT и GPT. Записи: [лекция](https://disk.yandex.ru/i/0MxKN7zyb4qYvg), [семинар](https://disk.yandex.ru/i/k2Bst6eJjrlzVQ)
+5. Дистилляция и квантизация. Записи: [лекция](https://disk.yandex.ru/i/afFfOyIzwYNC9Q), [семинар](https://disk.yandex.ru/i/Dx6IZtj3c_wr4g)
+6. Parameter-Efficient Fine-tuning. Записи: [лекция](https://disk.yandex.ru/i/EKMWR2xRkVZ8IQ)
 
 # Преподаватели
 
