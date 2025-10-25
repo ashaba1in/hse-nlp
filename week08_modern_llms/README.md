@@ -1,0 +1,1 @@
+[Ноутбук](https://colab.research.google.com/drive/1F4kKFYuPXAaUH1-4Gow2-CO0J3KJqQmw?usp=sharing) про профайлер, книга про скейлинг пайплайнов ([The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=first_steps:_training_on_one_gpu)).README.md
