@@ -15,6 +15,8 @@
 9. Retrieval-Augmented Generation. Записи: [лекция](https://disk.yandex.ru/i/e-HKWehdml9_LA), [семинар](https://disk.yandex.ru/i/94BeSACl2DIH7A)
 10. Безопасность и интерпретация AI. Записи: [лекция](https://disk.yandex.ru/i/XfjIeRqGNIsdrA), [семинар](https://disk.yandex.ru/i/hpe2w2uK1Fd-Hw)
 11. State Spase Models. Записи: [лекция](https://disk.yandex.ru/i/fFw-gCLIhbB1HA)
+12. Текстовые диффузионные модели.
+13. Мультимодельные LLM.
 
 # Преподаватели
 
