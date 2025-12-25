@@ -16,7 +16,7 @@
 10. Безопасность и интерпретация AI. Записи: [лекция](https://disk.yandex.ru/i/XfjIeRqGNIsdrA), [семинар](https://disk.yandex.ru/i/hpe2w2uK1Fd-Hw)
 11. State Spase Models. Записи: [лекция](https://disk.yandex.ru/i/fFw-gCLIhbB1HA)
 12. Текстовые диффузионные модели. Записи: [лекция](https://disk.yandex.ru/i/EbrKIkP0F6cnFQ)
-13. Мультимодельные LLM.
+13. Мультимодельные LLM. Записи: [лекция](https://disk.yandex.ru/i/W74P_-vpX-E7YQ)
 
 # Преподаватели
 
