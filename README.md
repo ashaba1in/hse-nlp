@@ -1,13 +1,11 @@
-# Natural Language Processing (NLP), ФКН ВШЭ
+# Natural Language Processing (NLP)
 
-Этот репозиторий содержит материалы лекций, семинаров и домашние задания.
+This repository contains lecture, seminar and homework materials.
 
-# Темы курса
+# Course topics
 
-1. Классификация и генерация текста. Записи: [лекция](https://disk.yandex.ru/i/WwuK1VrA3JKorA), [семинар](https://disk.yandex.ru/i/Kim4W9Ao6RE8MA)
+1. Text classification and generation. Recordings: [lecture](https://disk.yandex.ru/i/M70LKqePX1s2mg), [practice](https://disk.yandex.ru/i/VYPErNAvG195YA)
 
-# Преподаватели
+# Instructors
 
-* [Александр Шабалин](https://t.me/amshabalin)
-* [Егор Чимбулатов](https://t.me/m0rjique)
-* [Дарья Андреева](https://t.me/Xufana)
+* [Alexander Shabalin](https://t.me/amshabalin)
