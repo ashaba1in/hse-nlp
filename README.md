@@ -9,6 +9,7 @@
 1. BERT и GPT. Записи: [лекция](https://disk.yandex.ru/i/uS-J_7PXiLfMdQ), [семинар](https://disk.yandex.ru/i/7yxSS6wdUckYuQ)
 1. Современные LLM. Записи: [лекция](https://disk.yandex.ru/i/ZuPpvMT0skjyvg), [семинар](https://disk.yandex.ru/i/t6a2u8rRVQ39Kg)
 1. Parameter-Efficient Fine-tuning. Записи: [лекция](https://disk.yandex.ru/i/p95zk2H_LfDtRw), [семинар](https://disk.yandex.ru/i/HdSoaYG5Vmhm3A)
+1. Сжатие и ускорение моделей. Записи: [лекция1](https://disk.yandex.ru/i/XdWEViiOz0yljQ), [лекция2](https://disk.yandex.ru/i/u2Lu4Bcjz6rbSQ), [семинар](https://disk.yandex.ru/i/kSktcweTxirD7w)
 
 # Преподаватели
 
